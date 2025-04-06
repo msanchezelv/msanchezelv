@@ -6,8 +6,8 @@ Welcome to my GitHub page, 👋 I'm Marina, a passionate Software Developer from
 [![Marina's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=msanchezelv&custom_title=Here%20are%20my%20stats%3A&hide_rank=true&border_radius=15&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Marina's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=msanchezelv&custom_title=Here%20are%20my%20stats%3A&hide_rank=true&border_radius=15&show_icons=true&theme=ambient_gradient#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 ## 🛠 Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msanchezelv&custom_title=These%20are%20my%20most%20used%20languages%3A&hide=ShaderLab,HLSL,Batchfile&border_radius=15&layout=donut&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msanchezelv&custom_title=These%20are%20my%20most%20used%20languages%3A&hide=ShaderLab,HLSL,Batchfile&border_radius=15&layout=donut&theme=ambient_gradient#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=msanchezelv&custom_title=These%20are%20my%20most%20used%20languages%3A&hide=ShaderLab,HLSL,Batchfile&border_radius=15&layout=donut&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=msanchezelv&custom_title=These%20are%20my%20most%20used%20languages%3A&hide=ShaderLab,HLSL,Batchfile&border_radius=15&layout=donut&theme=ambient_gradient#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 And these are some of the tools I use on my projects.
 
