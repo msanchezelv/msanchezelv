@@ -1,7 +1,7 @@
 
 ## 🛠 Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msanchezelv&custom_title=These%20are%20my%20most%20used%20languages%3A&hide=ShaderLab,HLSL,Batchfile&border_radius=15&layout=donut&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msanchezelv&custom_title=These%20are%20my%20most%20used%20languages%3A&hide=ShaderLab,HLSL,Batchfile&border_radius=15&layout=donut&theme=ambient_gradient#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+
 
 And these are some of the tools I use on my projects.
 
